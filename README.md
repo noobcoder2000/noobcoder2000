@@ -13,6 +13,7 @@
 
 - 📫 *Email me at* [![Gmail Badge](https://img.shields.io/badge/-srinjoydas368@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinjoydas368@gmail.com )](mailto:srinjoydas368@gmail.com)
 - ⚡ *Fun fact **I think I am Funny***
+- Thanks to PRIME_SAPTARSHI<a href="https://github.com/OPTIMUS-PRIME2001"></a> for customizing my Readme
 
 <hr></hr>
 <h2 align="center">Connect with me</h2>
