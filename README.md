@@ -1,7 +1,7 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I am SRINJOY</h1>
 <h3 align="center">A Enthusiastic Computer Science Student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobcoder2000&label=Profile%20views&color=0e75b6&style=flat" alt="noobcoder2000" />
-<img align= right src="https://img.shields.io/github/last-commit/noobcoder2000/noobcoder/main?label=Last%20updated&style=flat"></p>
+<img align= right src="https://img.shields.io/github/last-commit/noobcoder2000/noobcoder2000/main?label=Last%20updated&style=flat"></p>
  
 - 🌱 *I’m currently learning **more about ***
 - 📚 *I love to read articles and books on **[  ]***
@@ -9,7 +9,7 @@
 
 - 📫 *Email me at* [![Gmail Badge](https://img.shields.io/badge/-srinjoydas368@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinjoydas368@gmail.com )](mailto:srinjoydas368@gmail.com)
 - ⚡ *Fun fact **I think I am Funny***
-- Thanks to PRIME_SAPTARSHI<a href="https://github.com/OPTIMUS-PRIME2001"></a> for customizing my Readme
+- Thanks to <a href="https://github.com/OPTIMUS-PRIME2001">PRIME_SAPTARSHI</a> for customizing my Readme
 
 <hr></hr>
 <h2 align="center">Connect with me</h2>
@@ -33,3 +33,8 @@
     <img align="left" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/faf611405777dc6dd4f1a57fdd0b5d272ce842ea/workflows/increase.svg" alt="SRINJOY DAS'S STATS" wifth="40" height="30">My GitHub Stats
   </summary>  
  <p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobcoder2000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="noobcoder2000" /><br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobcoder2000&show_icons=true&locale=en&layout=compact&theme=dracula" alt="noobcoder2000" /><br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobcoder2000&theme=tokyonight" alt="noobcoder2000" /></p>
+ </details>
+ <hr></hr>
+ <p align="center"><img  src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"></p>
